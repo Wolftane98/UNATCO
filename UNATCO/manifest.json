@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "UNATCO",
+    "description": "UNATCO convo music as the background sound to make it feel like 01, with love from null.",
+    "version": "1.1",
+    "icons":
+    {
+        "512": "icon_512.jpg"
+    },
+    "developer":
+    {
+        "name": "Null"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "background_music":
+            [
+                "music/Deus Ex _009 _UNATCO _Ambient.mp3"
+            ]
+        }
+    }
+}
